@@ -10,4 +10,4 @@ So definitely check it out.
 
 Here is the preview:
 
-![alt text](https://raw.githubusercontent.com/thegreatshivam/SecondJavaGuiApp/master/preview.jpg)
+![alt text](https://i.ibb.co/kBnS7gv/preview.jpg)
